@@ -307,18 +307,29 @@ body {
   }
 }
 
-.time {
 
-  font-size: 30px;
-  font-weight: 700;
 
-}
+  .container   .text1{
+    text-align: center;
 
-.time .container {
-  color: #ffd000;
-  text-align: center;
+font-size: 40px;
+color: var(--secondary-color);
+line-height: 2;
 
-  span {
-    color: #ffffff;
-  }
-}
+ }
+
+    .text1 p{
+    text-align: center;
+
+font-size: 40px;
+background-color: rgba(137, 209, 23, 0.447);
+color: #ffffff;
+font-weight: 900;
+border: 2px solid black;
+padding: 5px;
+ 
+ 
+
+ }
+ 
+ 
